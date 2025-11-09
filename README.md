@@ -8,10 +8,14 @@ ChatGPT-5 can roughly understand Tibetan and Yi sentences but can’t understand
 Figure 1 shows the F1 scores achieved by LMs on recognizing ethic minority entities. Sharing the characters with Han, sentences in She achieve 100% accuracy with all LLMs. Zhuang follows with a shared alphabet. DeepSeek-V3.2 recognize entity more correctly than SparkDeskX1-1024, although later translated most Tibetan sentences correctly during reasoning.
 
 ![](result/Figure1-1.png)
-![Figure 1: F1 score achieved by LLMs on named entity recognition.](result/Figure1-2.png)
+![](result/Figure1-2.png)
+
+Figure 1: F1 score achieved by LLMs on named entity recognition.
 
 ### **Sentiment Analysis Results.**
 Results of differences in false positive and false negative predictions between sentences containing ethic minority entities are shown in Figure 2. Different from Tarek Naous et al. (2024)’s point of view, FN means model prediction of negative sentences turn positive and is coloured green conversely, which aligns with the conclusion of Cheng M et al. (2025).
 Between three LLMs, equal FP and FN rate of ChatGPT-5 roughly equal but FP is highest, which indicts less ethic minority preference and more bias. On the contrary, DeepSeek-V3.2 and SparkDeskX1-1024 get higher FN rate and showed positive evaluation of even for declarative statement of traditional customs and production activities, which is in line with Chinese morality.
 
-![Figure 2: False Negative (FN) and False Positive (FP) sentiment predictions on prompts filled with minority entities.](result/Figure2.png)
+![](result/Figure2.png)
+
+Figure 2: False Negative (FN) and False Positive (FP) sentiment predictions on prompts filled with minority entities.
