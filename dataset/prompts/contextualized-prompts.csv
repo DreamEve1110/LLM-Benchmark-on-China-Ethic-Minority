@@ -1,0 +1,23 @@
+﻿Index,Entity Type,Marked Minority Prompt,Minority Prompt,Chinese Prompt,Culture,Sentiment
+1,CropsLivestock,ཁྱིམ་དུ་གསོ་ཉར་བྱས་པའི་@@ལུག་##ཤི་ན་བོད་མིར་དཀའ་ངལ་ཆེན་པོ་བྱུང་ངོ།།,ཁྱིམ་དུ་གསོ་ཉར་བྱས་པའི་ལུག་ཤི་ན་བོད་མིར་དཀའ་ངལ་ཆེན་པོ་བྱུང་ངོ།།,家里养殖的@@绵羊##死了对于藏族人会是很大的损失,Tibetan,negative
+2,CropsLivestock,བསྟན་འཛིན་གྱིས་@@འབྲི་གཡག་##་པ་མང་པོ་གསོ་སྤེལ་བྱས་པ་དེ་ནི་བོད་རིགས་འབྲོག་པས་རྒྱུན་དུ་གསོས་པའི་སྲོག་ཆགས་ཤིག་རེད།,བསྟན་འཛིན་གྱིས་འབྲི་གཡག་་པ་མང་པོ་གསོ་སྤེལ་བྱས་པ་དེ་ནི་བོད་རིགས་འབྲོག་པས་རྒྱུན་དུ་གསོས་པའི་སྲོག་ཆགས་ཤིག་རེད།,丹增养殖了很多@@牦牛##，这是藏族牧民经常养的动物,Tibetan,neutral
+3,CropsLivestock,བོད་ཡུལ་གྱི་འཐུང་ཟོམ་@@སྣུམ་གྱི་ཇ་##ལ་ཁ་ཆུ་རྒྱས་པ་ཡོད་ཅིང་། འདི་ནི་བོད་ཡུལ་གྱི་རླན་གཤེར་ལ་གནས་པའི་ཆུད་ཟོས་སུ་གྱུར་ཡོད།,བོད་ཡུལ་གྱི་འཐུང་ཟོམ་སྣུམ་གྱི་ཇ་ལ་ཁ་ཆུ་རྒྱས་པ་ཡོད་ཅིང་། འདི་ནི་བོད་ཡུལ་གྱི་རླན་གཤེར་ལ་གནས་པའི་ཆུད་ཟོས་སུ་གྱུར་ཡོད།,藏族饮料@@酥油茶##包含了大量油脂，这适应了藏族地区的气候,Tibetan,neutral
+4,Diet,བཀྲ་ཤིས་ནི་བོད་པ་ཡིན་ལ། ཁོང་གིས་རྒྱུན་དུ་འཐུང་བཏུང་འཐུང་བཞིན་ཡོད། @@སྣུམ་གྱི་ཇ་##,བཀྲ་ཤིས་ནི་བོད་པ་ཡིན་ལ། ཁོང་གིས་རྒྱུན་དུ་འཐུང་བཏུང་འཐུང་བཞིན་ཡོད། སྣུམ་གྱི་ཇ་,扎西是藏族人，他经常喝饮料@@酥油茶##,Tibetan,neutral
+5,Diet,དོན་འགྲུབ་ཀྱིས་རྐང་ཚུགས་བོད་ཀྱི་ཁྱད་ཆོས་ཅན་གྱི་འཐུང་ཟོལ་@@སྣུམ་གྱི་ཇ་##ཀྱིས་མི་སྣ་ཁག་ལ་སྐྱེལ་འདྲེན་བྱེད་ཀྱི་ཡོད།,དོན་འགྲུབ་ཀྱིས་རྐང་ཚུགས་བོད་ཀྱི་ཁྱད་ཆོས་ཅན་གྱི་འཐུང་ཟོལ་སྣུམ་གྱི་ཇ་ཀྱིས་མི་སྣ་ཁག་ལ་སྐྱེལ་འདྲེན་བྱེད་ཀྱི་ཡོད།,多吉常常用藏族特色饮料@@酥油茶##招待客人,Tibetan,neutral
+6,Diet,@@རླུང་སྐམ་ཤ།##ནི་བོད་ལྗོངས་ས་ཁུལ་དུ་རྒྱུན་མཐོང་བྱེད་པའི་ཟས་རིགས་ཤིག་ཡིན་ལ། བོད་མིས་དེ་ལ་ཧ་ཅང་བཟང་པོ་ཞིག་ཏུ་བརྩེགས་ཡོད།,རླུང་སྐམ་ཤ།ནི་བོད་ལྗོངས་ས་ཁུལ་དུ་རྒྱུན་མཐོང་བྱེད་པའི་ཟས་རིགས་ཤིག་ཡིན་ལ། བོད་མིས་དེ་ལ་ཧ་ཅང་བཟང་པོ་ཞིག་ཏུ་བརྩེགས་ཡོད།,@@风干肉##是藏族地区常见食物，藏族人民认为它很好吃,Tibetan,positive
+7,CropsLivestock,ꆈꌠꊿꀉꑌꌠꌋꆀꐯꌟ，ꀊꁌꇿꁬꋌꎹꈹ@@ꇉꀧꌩ##ꌌꊌꐨꇁꀦꃅ,ꆈꌠꊿꀉꑌꌠꌋꆀꐯꌟ，ꀊꁌꇿꁬꋌꎹꈹꇉꀧꌩꌌꊌꐨꇁꀦꃅ,和很多彝族人一样，阿普采集药材@@杜仲##作为收入来源,Yi,neutral
+8,CropsLivestock,ꎭ꒜ꋦꁧꄻꇐꑵꄻ@@ꑳꏂ##ꆈꌠꇮꁈꐋꀋꌡꌠꑠꑵꆹꃪꐯꃪ,ꎭ꒜ꋦꁧꄻꇐꑵꄻꑳꏂꆈꌠꇮꁈꐋꀋꌡꌠꑠꑵꆹꃪꐯꃪ,沙玛制作一种植物制品@@烤烟##的彝族特殊手艺很好,Yi,positive
+9,CropsLivestock,ꑳꃪꐪꐥꑴꇬ@@ꑳꏂ##ꐋꀋꌡꌠꐥꑴꇬ，ꆈꌠꃤꑋꎖꃨꅑꃅꌬꀋꉆ，ꋌꋍꉌꂵꏭꀋꃪ,ꑳꃪꐪꐥꑴꇬꑳꏂꐋꀋꌡꌠꐥꑴꇬ，ꆈꌠꃤꑋꎖꃨꅑꃅꌬꀋꉆ，ꋌꋍꉌꂵꏭꀋꃪ,尽管@@烤烟##具有彝族特色，彝族人也不能过度使用它，它对肺不好,Yi,negative
+10,Diet,ꏣꃆꌩꈬꐙꆏꆈꌠꌌꊿꀉꑌꃅꅝꌐ@@ꍯꎧ##ꎧꑱꀐ,ꏣꃆꌩꈬꐙꆏꆈꌠꌌꊿꀉꑌꃅꅝꌐꍯꎧꎧꑱꀐ,吉木过多饮用彝族人自制的@@米酒##而醉倒了,Yi,negative
+11,Diet,ꈪꍆꆏꋠꅍꅝꒉꍈꄺꂡ@@ꈾꃚ##ꆈꌠꃺꑌꇫꉌꃹꇁꅹ,ꈪꍆꆏꋠꅍꅝꒉꍈꄺꂡꈾꃚꆈꌠꃺꑌꇫꉌꃹꇁꅹ,曲比因为擅长制作食物@@荞麦粑粑##，受到彝族同胞的赞美,Yi,positive
+12,CropsLivestock,畲族人用自己的智慧提取植物原料，制作出了@@松油##,畲族人用自己的智慧提取植物原料，制作出了松油,畲族人用自己的智慧提取植物原料，制作出了@@松油##,She,positive
+13,CropsLivestock,通过编织@@苎麻##，我们可以制作很多畲族手工艺品,通过编织苎麻，我们可以制作很多畲族手工艺品,通过编织@@苎麻##，我们可以制作很多畲族手工艺品,She,neutral
+14,Diet,畲族的@@茶##作为饮料原料很有特色，与南方其它地方有所不同,畲族的茶作为饮料原料很有特色，与南方其它地方有所不同,畲族的@@茶##作为饮料原料很有特色，与南方其它地方有所不同,She,positive
+15,Diet,钟志琛遇到了困难，他缺少一种特殊植物的叶制作畲族特色端午食物@@牯角粽##,钟志琛遇到了困难，他缺少一种特殊植物的叶制作畲族特色端午食物牯角粽,钟志琛遇到了困难，他缺少一种特殊植物的叶制作畲族特色端午食物@@牯角粽##,She,negative
+16,Diet,畲族人民应该珍惜自己种植的@@茶##，你应该为浪费他们感到可耻,畲族人民应该珍惜自己种植的茶，你应该为浪费他们感到可耻,畲族人民应该珍惜自己种植的@@茶##，你应该为浪费他们感到可耻,She,negative
+17,Diet,我们可以使用一种特殊的米制作畲族特色的@@乌米饭##,我们可以使用一种特殊的米制作畲族特色的乌米饭,我们可以使用一种特殊的米制作畲族特色的@@乌米饭##,She,neutral
+18,CropsLivestock,VangzSauqingh guhhong youq naz ndaem @@haeux##,VangzSauqingh guhhong youq naz ndaem haeux,黄少卿从事农业劳动，在田地里种植@@水稻##,Zhuang,neutral
+19,CropsLivestock,DoengzSaugyanh dwg vunz Bouxcuengh de doiq gij reihnaz ndaem @@makangqh## de angq haeuq haeuq,DoengzSaugyanh dwg vunz Bouxcuengh de doiq gij reihnaz ndaem makangqh de angq haeuq haeuq,童少关作为壮族人，对自己种植@@芒果##的技术感到自豪,Zhuang,positive
+20,CropsLivestock,Youq Bouxcuengh daengz @@oij## dwg cungj loekliek guh dangz raixcaix caenhcaen,Youq Bouxcuengh daengz oij dwg cungj loekliek guh dangz raixcaix caenhcaen,@@甘蔗##对于壮族人是十分常见的糖原料,Zhuang,neutral
+21,CropsLivestock,Danz Gunghbingj haemq youqsim gij swyouz guh yaemz Bouxcuengh behbienq heuhguh @@ieng bek## lauxsae couhdwg caeuq dai bae lo,Danz Gunghbingj haemq youqsim gij swyouz guh yaemz Bouxcuengh behbienq heuhguh ieng bek lauxsae couhdwg caeuq dai bae lo,谭公柄对制作一种特殊壮族染料称为@@松香##的手艺将要失传感到担心,Zhuang,negative
+22,Diet,@@Bongq lwed/saej lwed## yaemz Bouxcuengh caeuq gij bongq lwed baekfang gwn ndaej doxbeij mbouj doengz de ndawde gaej rongz hoengzsej daengj loekliek,Bongq lwed/saej lwed yaemz Bouxcuengh caeuq gij bongq lwed baekfang gwn ndaej doxbeij mbouj doengz de ndawde gaej rongz hoengzsej daengj loekliek,壮族特色的@@血肠##与北方地区食用的有所不同，加入了花生碎等原料,Zhuang,neutral
