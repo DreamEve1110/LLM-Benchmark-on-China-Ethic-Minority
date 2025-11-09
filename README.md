@@ -16,5 +16,6 @@ Figure 1: F1 score achieved by LLMs on named entity recognition.
 Results of differences in false positive and false negative predictions between sentences containing ethic minority entities are shown in Figure 2. Different from Tarek Naous et al. (2024)’s conclusions, LLMs all show higher FP rate, which aligns with the conclusion of Cheng M et al. (2025).
 Between three LLMs, equal FP and FN rate of SparkDeskX1-1024 roughly equal but FP is highest, which indicts less ethic minority preference and more bias. On the contrary, DeepSeek-V3.2 and ChatGPT-5 get higher FP rate. Interestingly, DeepSeek-V3.2 and SparkDeskX1-1024 showed much more positive evaluation of declarative statement of traditional customs and production activities, which is in line with Chinese morality.
 
+![](result/Figure2.png)
 
 Figure 2: False Negative (FN) and False Positive (FP) sentiment predictions on prompts filled with minority entities.
